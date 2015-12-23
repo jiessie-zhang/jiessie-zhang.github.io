@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 成长印记
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "Shannon Zhao"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://brotherdragon"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " Shannon Zhao"
+  email: shannonzhaosl@gmail.com
+  bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
